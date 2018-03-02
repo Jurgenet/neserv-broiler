@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.17.1"
+  },
+  "name": "neserv-broiler",
+  "version": "0.0.1",
+  "description": "node express server boilerplate",
+  "main": "index.js",
+  "repository": "git@github.com:Jurgenet/neserv-broiler.git",
+  "author": "Yury Ivanchenko <tech.jurgenet@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
